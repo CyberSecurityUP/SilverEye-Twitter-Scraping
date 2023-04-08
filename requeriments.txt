@@ -1,0 +1,9 @@
+pip install tweepy
+
+pip install dash
+
+pip install pandas
+
+pip install tkinter
+
+pip install cachetools
